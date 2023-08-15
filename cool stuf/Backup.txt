@@ -1,3 +1,2 @@
-name=age wq: age=23;
-name=fjd fkdjf: age=235;
+name=Midyan Elghazali: age=23;
 END
