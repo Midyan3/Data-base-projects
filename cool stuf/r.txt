@@ -1,7 +1,6 @@
 data-base
-1. Name: WILLIAM AFTON Age: 13
-2. Name: smiley Age: 16
-3. Name: mob Age: 16
-4. Name: lob Age: 16
-5. Name: lob Age: 18
-6. Name: ohmygodcanyoustop Age: 16
+1. Name: William Terenz Age: 13
+2. Name: Yuriy Monteko Age: 16
+3. Name: Bob Teren Age: 16
+4. Name: Midyan Elghazali Age: 16
+5. Name: Robert Allen Age: 18
