@@ -57,5 +57,3 @@ int main() {
 # Contributing
 - Feel free to contribute to this project by opening an issue or a pull request.
 
-# License
-- This project is open-source and available under the MIT License.
